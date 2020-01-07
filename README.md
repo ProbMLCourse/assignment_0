@@ -11,7 +11,10 @@ This is the repository for assignment 0. It contains the following files:
 * `make_pdf.jl` - a short Julia script that contains the code used to produce A0.pdf from A0.jmd.
 
 ## Submitting with Github Classroom
-If you are a registered student in the course, you will receive a link to accept this assignment which will `git clone` this repository through GitHub Classroom.
+If you are a registered student in the course, you will 
+* receive a link to accept this assignment 
+* link your student account with your GitHub account
+* which will `git clone` this repository through GitHub Classroom.
 
 **If you are registered in the course and did not receive a Github Classroom assignment invitation, contact the instructors!**
 
