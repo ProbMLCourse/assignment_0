@@ -10,24 +10,10 @@ This is the repository for assignment 0. It contains the following files:
 * `README.md` - the text you are currently reading.
 * `make_pdf.jl` - a short Julia script that contains the code used to produce A0.pdf from A0.jmd.
 
-## Submitting with Github Classroom
-If you are a registered student in the course, you will 
-* receive a link to accept this assignment 
-* link your student account with your GitHub account
-* which will `git clone` this repository through GitHub Classroom.
+## Submission Instructions
+If you are a registered student in the course you will recieve submission instructions prior to the deadline.
+This README will also be updated with those details.
 
-**If you are registered in the course and did not receive a Github Classroom assignment invitation, contact the instructors!**
-
-You will submit your solutions for assessment by using the following `git` commands in commandline, with git integrated into your editor environment like [Atom](https://github.atom.io/), or with a dedicated [Github application](https://desktop.github.com/):
-
-* `git status` - See what files have been changed, which have been `staged` (added and ready for a commit), or `unstaged` and will need to be added.
-* `git add` - Add all the files you want assessed. Including your `.pdf` writeup and your source code (`.jl`, `.jmd`, or `.py`)
-* `git commit` - Saves all the changes that were `staged` (by `git add`). 
-* `git push` - Sends your changes off your machine. 
-
-**Everything you want assessed must be committed and pushed before the assignment due date**
-
-Please practice using git and pushing your solutions prior to the deadline. If you have any difficulties, ask on the course forum.
-
-Keep your solutions to this assignment private and in accordance with our collaboration and academic integrity policy.
+## Collaboration and Github Private Repository
+Keep your solutions to this assignment, including your GitHub repo, private and in accordance with our collaboration and academic integrity policy.
 
